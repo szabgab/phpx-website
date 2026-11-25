@@ -435,7 +435,7 @@
         "status": "active",
         "latitude": 7.376736,
         "longitude": 3.939786
-    }
+    },
     "live.code-maven.com/php": {
         "external": true,
         "name": "PHP Maven",

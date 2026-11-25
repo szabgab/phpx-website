@@ -436,4 +436,14 @@
         "latitude": 7.376736,
         "longitude": 3.939786
     }
+    "live.code-maven.com/php": {
+        "external": true,
+        "name": "PHP Maven",
+        "region": "Online",
+        "continent": "Global",
+        "active": "true",
+        "meetup_url": "https://luma.com/php-maven",
+        "description": "PHP Maven is an online only group that provides a space for people from around the world to mingle and share their knowledge about any PHP-related topic. e.g. Symfony, Laravel, Drupal, Cake, Wordpress, ...",
+        "status": "active"
+    }
 }
